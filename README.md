@@ -75,7 +75,7 @@ Now that we have trained the character recognition model we are going to use thi
 _______________________________________________________________________________________________________
 
 
-![car_number_recognition](https://user-images.githubusercontent.com/61656756/132623075-0254744b-fc37-4f28-beef-6da47ed78a92.jpg)
+![car_number_recognition](https://user-images.githubusercontent.com/61656756/132629921-0e5d8808-9ac2-448d-837d-63af2ab4fa57.jpg)
 
 
 
