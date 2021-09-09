@@ -38,6 +38,8 @@ A demo of functioning model.
 
 click on it ->  [car_number_Plate_detection](https://user-images.githubusercontent.com/61656756/132624993-95c65540-619d-4ddf-8583-457672114d61.gif)
 
+As you can see the number plates are detected, cropped and then seperated
+
 
 ![car_number_recognition](https://user-images.githubusercontent.com/61656756/132623075-0254744b-fc37-4f28-beef-6da47ed78a92.jpg)
 As you can see on the right side we have the characters detected as weel as their accuracy!
